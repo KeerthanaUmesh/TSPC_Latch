@@ -25,4 +25,4 @@ A D latch made with NAND gates stores one bit of data. It consists of two cross-
 
 ### TSPC-SN Type
 ![image](https://github.com/KeerthanaUmesh/TSPC_Latch/assets/147648970/1a68ed59-e437-4ceb-807f-2194b33bd924)
-<center> Schematic of TSPC Latch-SN type with VDD=1.8v </center>
+![tspc_latch](https://github.com/KeerthanaUmesh/TSPC_Latch/assets/147648970/63be6b0b-bc60-4cdd-8102-d05d4c3bed1a)
