@@ -1,4 +1,4 @@
-# TSPC Latch
+# TSPC Latch(SN Type)
 The True Single Phase Clock circuit technique operates using a single clock and does not require the local inversion of clock.They are known for being power-efficient due to this single-phase clocking mechanism.      
 The fundamental stages of TSPC are  SP, PP, SN, and PN.
 The first letter S and P denotes the logic  type:
